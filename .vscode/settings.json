@@ -1,4 +1,4 @@
 {
     "git.ignoreLimitWarning": true,
-    "python.pythonPath": "_env\\Scripts\\python.exe"
+    "python.pythonPath": "a\\Scripts\\python.exe"
 }
